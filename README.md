@@ -18,7 +18,7 @@ Below is a list of requirements for the Bootstrap Portfolio project that I have 
 
 You can view the deployed website by following the link provided.
 
-   Link to the deployed website: 
+   Link to the deployed website: https://astranag.github.io/Portfolio-Challenge/
 
 ## Installation    
 
